@@ -1,0 +1,21 @@
+.song-profile-container {
+    background-color: black;
+    color: white;
+
+    .song-img {
+      position: relative;  
+      top: 23px;
+    }
+
+    .song-details-container {
+        margin-top: 1rem;
+        .song-title {
+            font-size: 2rem;  
+        }
+    }
+
+}
+
+.song-lyrics-container {
+    font: 100 1.125rem / 1.5 Programme, Arial, sans-serif    
+}
